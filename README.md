@@ -11,7 +11,3 @@ I'm Sparsh! I love to contribute to open source projects. I love to share my lov
 
 ## My Stats!
 ![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=isparsh&show_icons=true&theme=radical)
-
-## My Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
