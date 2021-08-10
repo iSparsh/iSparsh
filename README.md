@@ -4,7 +4,8 @@ I'm Sparsh! I love to contribute to open source projects. I love to share my lov
 
 🐧 I am now a certified Linux User! (LPI Essentials Certified!)
 
-- 🔭 I’m currently working on archusb!
+- 🔭 I’m currently working on archusb! *Done!
+- Im now working on LinuxMixer
 - 🌱 I’m currently learning Java and Machine Learning
 - 👯 I’m looking to collaborate on archusb and void-docs
 - 📫 How to reach me: GitHub!
